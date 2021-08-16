@@ -1,19 +1,13 @@
 <Jumbo>
     <h2>Hello, Cass!</h2>
     <p>What would you like to read today?</p>
-    <LinkTo @route="about" class="button">About</LinkTo>
-    <LinkTo @route="contact" class="button">Contact</LinkTo>
 </Jumbo>
 <div class="rentals">
     <ul class="results">
+        {{#each @model as |book|}}
         <li>
-            <Book/>
+            <Book @book={{book}} />
         </li>
-        <li>
-            <Book/> 
-        </li>
-        <li>
-            <Book/>
-        </li>
+        {{/each}}
     </ul>
 </div>

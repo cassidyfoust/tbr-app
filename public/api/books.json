@@ -1,0 +1,64 @@
+{
+    "data": [
+        {
+            "type": "books",
+            "id": "the-final-girl-support-group",
+            "title": "The Final Girl Support Group",
+            "author": "Grady Hendrix",
+            "length": "339 pg",
+            "genre": "Horror",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/81qzYRv4+8L.jpg",
+            "description": "A fast-paced, thrilling horror novel that follows a group of heroines to die for, from the brilliant New York Times bestselling author of The Southern Book Club's Guide to Slaying Vampires.In horror movies, the final girl is the one who’s left standing when the credits roll."
+        },
+        {
+            "type": "books",
+            "id": "shes-too-pretty-to-burn",
+            "title": "She's Too Pretty to Burn",
+            "author": "Wendy Heard",
+            "length": "325 pg",
+            "genre": "Thriller",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/710cWtor4LL.jpg",
+            "description": "An electric romance set against a rebel art scene sparks lethal danger for two girls in She's Too Pretty to Burn, an expertly plotted YA thriller by Wendy Heard."
+        },
+        {
+            "type": "books",
+            "id": "sorrowland",
+            "title": "Sorrowland",
+            "author": "Rivers Solomon",
+            "length": "368 pg",
+            "genre": "Science Fiction",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/91Ega4N0fQL.jpg",
+            "description": "A triumphant, genre-bending breakout novel from one of the boldest new voices in contemporary fiction Vern—seven months pregnant and desperate to escape the strict religious compound where she was raised—flees for the shelter of the woods."
+        },
+        {
+            "type":"books",
+            "id": "when-katie-met-cassidy",
+            "title": "When Katie Met Cassidy",
+            "author": "Camille Perri",
+            "length": "272 pages",
+            "genre": "Fiction",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/618rGV6JowL.jpg",
+            "description":"From the acclaimed author of The Assistants comes another gutsy book about two women who find their lives turned upside down by their unexpected chemistry."
+        },
+        {
+            "type":"books",
+            "id": "the-stars-and-the-blackness-between-them",
+            "title": "The Stars and the Blackness Between Them",
+            "author": "Junauda Petrus",
+            "length": "320 pg",
+            "genre": "Fiction",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/91XH8n-NoHL.jpg",
+            "description":"The Stars and the Blackness Between Them is an American young adult fiction book by Junauda Petrus."
+        },
+        {
+            "type":"books",
+            "id": "the-house-in-the-cerulean-sea",
+            "title": "The House in the Cerulean Sea",
+            "author": "TJ Klune",
+            "length": "416 pg",
+            "genre": "Fantasy",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/81MnY8Q7OLL.jpg",
+            "description":"Linus Baker is a by-the-book case worker in the Department in Charge of Magical Youth. He's tasked with determining whether six dangerous magical children are likely to bring about the end of the world."
+        }
+    ]
+}

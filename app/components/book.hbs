@@ -1,14 +1,20 @@
 <article class="rental">
+    <Book::Image     src={{@book.image}}
+    alt="A picture of {{@book.title}}"/>
     <div class="details">
-        <h3>The Final Girl Support Group</h3>
+        <h3>
+            <LinkTo @route="book" @model={{@book}}>
+                {{@book.title}}
+            </LinkTo>
+        </h3>
         <div class="detail owner">
-            <span>Author:</span> Grady Hendrix
+            <span>Author:</span> {{@book.author}}
         </div>
         <div class="detail type">
-            <span>Genre:</span> Horror
+            <span>Genre:</span> {{@book.genre}}
         </div>
         <div class="detail location">
-            <span>Length:</span> 339pg
+            <span>Length:</span> {{@book.length}}
         </div>
     </div>
 </article>
